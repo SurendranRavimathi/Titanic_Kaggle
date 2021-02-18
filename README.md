@@ -1,2 +1,2 @@
-# Titanic_Kaggle
+# Titanic_Kaggle_Project
 Basic Kaggle stater project
